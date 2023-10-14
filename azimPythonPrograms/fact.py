@@ -3,7 +3,7 @@ def fact(q):
         return 1
     else :
         return fact((q-1)*q)
-    int  (input("Enter the No"))
+    a=int(input("Enter the No"))
     
-result = fact(q)
-print("The Factorial of no is :",result)
+result = fact(a)
+print("The Factorial of no is :",result) 
