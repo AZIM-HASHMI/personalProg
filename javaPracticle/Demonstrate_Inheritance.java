@@ -1,4 +1,5 @@
- class Employee {
+ //Program to demonstrate Inheritance Concept
+ class Employee {               //SUPER CLASS OR BASE CLASS
     float salary = 450000;
     int bonus = 30000;
     void salary()
@@ -6,7 +7,7 @@
         System.out.println(" Programmer Salary is " + salary);
     }
 }
-class Programmer extends Employee { 
+class Programmer extends Employee {   //DERIVED CLASS OR SUB CLASS
 // Programmer class inherits from Employee class
     void bonus()
      {
