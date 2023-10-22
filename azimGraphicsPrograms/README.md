@@ -1,1 +1,1 @@
-# This my Graphics Program file
+# This is my Graphics Program file
