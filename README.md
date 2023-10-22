@@ -1,4 +1,4 @@
-# personalProg is for my personals uses
+# This is file for doing my Practicle Program in java
 <br>
 # related to Git
 
