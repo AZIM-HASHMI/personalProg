@@ -1,5 +1,5 @@
 import java.util.*;
-public class calc{  //USING SWITCH STATEMENT FOR DOING VARIOUS OPERATION / CALCULATOR
+public class calcu{  //USING SWITCH STATEMENT FOR DOING VARIOUS OPERATION / CALCULATOR
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the Numbers");
