@@ -5,11 +5,13 @@ class Student{
     long mobileNo;
     int age;
     public void studentInfo(){
+        System.out.println(".......................................................................");
         System.out.println("Student ID is : " + this.id);
         System.out.println("Name of the Student is : " + this.Name);
         System.out.println("Student college Fees is : " + this.fees);
         System.out.println("Student Mobile Number is : " + this.mobileNo);
         System.out.println("The Age of Student is : " + this.age);
+        System.out.println("........................................................................");
 
     }
 }
