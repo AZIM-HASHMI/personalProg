@@ -1,4 +1,4 @@
-
+//PROGRAM TO DEMONSTRATE CLASS CONCEPT
 public class person {// declaring  a class
     //Creating Data Members of Class
     static String name = "john";

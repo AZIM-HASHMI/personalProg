@@ -17,5 +17,6 @@ public class nestedIfPr {
         else{
                 System.out.println("age must be greater then 18");
             }
+            sc.close();
     }
 }
