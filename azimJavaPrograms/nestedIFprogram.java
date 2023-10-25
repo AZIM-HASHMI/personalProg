@@ -12,6 +12,7 @@ public class nestedIFprogram {//The nested if statement represents the if block 
                 System.out.println("YOU R ELIGIBLE TO DONATE BLOOD");  
             }
         }
+        sc.close();
     } 
          
                                                                                                       

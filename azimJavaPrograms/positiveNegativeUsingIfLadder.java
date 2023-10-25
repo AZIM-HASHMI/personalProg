@@ -13,6 +13,7 @@ public class positiveNegativeUsingIfLadder {//Program to check POSITIVE, NEGATIV
         else{
             System.out.println("ZERO");
         }
+        sc.close();
     }
     
 }

@@ -7,6 +7,7 @@ public class usingTernaryOperator {
          //Using ternary operator  
         String output=(num%2==0)?num+" is EVEN":num+" is ODD";
         System.out.println(output);
+        sc.close();
     }
 }   /*We can also use ternary operator (? :) to perform the task of if...else statement
  It is a shorthand way to check the condition.If the condition is true, the result of ? is returned. 
