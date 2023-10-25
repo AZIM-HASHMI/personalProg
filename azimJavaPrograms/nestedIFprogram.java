@@ -13,6 +13,7 @@ public class nestedIFprogram {//The nested if statement represents the if block 
             }
             sc.close();
         }
+        sc.close();
     } 
          
                                                                                                       
